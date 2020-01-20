@@ -1,4 +1,1 @@
-Hello!
-This is a new line
-This is the second new line
-I realized that I never added this file to git
+This is a readme file that will contain all of the details to this project 
